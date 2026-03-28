@@ -130,11 +130,11 @@ const socials = [
  {
 	name: "Facebook",
 	icon: "/images/fb.png",
-	url: "#",
+	url: "https://www.facebook.com/darkrulerbreaker123/",
  },
 ];
 
-const sliderLists = [
+const cocktailListsMenu = [
  {
 	id: 1,
 	name: "Classic Mojito",
@@ -179,5 +179,5 @@ export {
  openingHours,
  storeInfo,
  socials,
- sliderLists,
+ cocktailListsMenu,
 };
